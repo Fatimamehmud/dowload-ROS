@@ -3,9 +3,9 @@ step to dowload ROS
 # step 1 :
 download Oracle VM VirtualBox
 
-#step 2 :
+# step 2 :
 downlod Ubuntu 20.04 and install it
-#step 3 :
+# step 3 :
 open terminal and write commands
 Setup your sources.list
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
