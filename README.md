@@ -1,6 +1,6 @@
 # dowload-ROS
 step to dowload ROS 
-1)step 1 :
+1 step 1 :
 download Oracle VM VirtualBox
 
 step 2 :
