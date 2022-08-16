@@ -1,10 +1,10 @@
 ## dowload-ROS
 ## step to dowload ROS :
 # step 1 :
-- download  VM VirtualBox
+** download  VM VirtualBox
 
 # step 2 :
- - downlod Ubuntu 20.04 or 18 
+** downlod Ubuntu 20.04 or 18 
 # step 3 :
 open terminal and write commands :
 1) Setup your sources.list
