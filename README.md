@@ -4,7 +4,7 @@ step to dowload ROS
 download Oracle VM VirtualBox
 
 # step 2 :
-downlod Ubuntu 20.04 or 18 
+ - downlod Ubuntu 20.04 or 18 
 # step 3 :
 open terminal and write commands
 Setup your sources.list
