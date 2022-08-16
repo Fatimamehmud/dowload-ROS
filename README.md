@@ -1,18 +1,20 @@
-# dowload-ROS
-step to dowload ROS 
+## dowload-ROS
+## step to dowload ROS :
 # step 1 :
-download Oracle VM VirtualBox
+- download  VM VirtualBox
 
 # step 2 :
  - downlod Ubuntu 20.04 or 18 
 # step 3 :
-open terminal and write commands
-Setup your sources.list
+open terminal and write commands :
+1) Setup your sources.list
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
-Set up your keys
+
+2) Set up your keys
 sudo apt install curl # if you haven't already installed curl
 curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
-Password is required
+
+**Password is required(when we create account)
 
 Installation
 sudo apt update
